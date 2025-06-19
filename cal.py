@@ -7,7 +7,7 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
-나누셈도 추가
+나누셈도 추가ㅋ
 
 곱하기 추가
 

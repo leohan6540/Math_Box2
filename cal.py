@@ -14,3 +14,5 @@ def subtract(a, b):
 이거는 프리미엄만 쓸 수 있음 lets go bro
 
 이거는 존나 비싼거다
+
+remote 레포지토리에서 수정
